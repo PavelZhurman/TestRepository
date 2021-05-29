@@ -5,7 +5,8 @@ class FirstClass {
         println("I need coffee")
     }
 
-    fun giveCoffee() {
+    fun giveCoffee() : String {
         println("Take coffee")
+        return "coffee"
     }
 }
