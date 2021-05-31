@@ -13,3 +13,5 @@
 .externalNativeBuild
 .cxx
 local.properties
+TestRepository(1).zip
+TestRepository.zip
